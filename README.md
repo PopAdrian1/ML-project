@@ -1,6 +1,6 @@
 # ML-project
 
-🍎 Documentația Proiectului: Predicția Producției de Mere prin Machine Learning
+🍎 Predicția Producției de Mere prin Machine Learning
 
 1. Obiectivul Proiectului
 
