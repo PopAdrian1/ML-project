@@ -1,9 +1,6 @@
 # ML-project
 
-Iată documentația rafinată și extinsă:
-
 🍎 Documentația Proiectului: Predicția Producției de Mere prin Machine Learning
-Versiune: 1.0 | Tip model: Regresie supervizată | Domeniu: Agricultură inteligentă
 
 1. Obiectivul Proiectului
 
