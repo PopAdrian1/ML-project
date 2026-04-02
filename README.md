@@ -14,7 +14,7 @@ Modelul combina trei categorii de factori pentru a prezice/estima productia real
 
 Valoare practică: estimarea timpurie a recoltei permite alocarea eficientă a resurselor (irigare, fertilizare) și identificarea județelor cu potențial mare.
 
-3. Dataset-uri
+2. Dataset-uri
 
 Toate sursele de date sunt integrate intr-un singur dataset mare organizat pe judete si ani.
 
