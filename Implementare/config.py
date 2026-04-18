@@ -3,7 +3,8 @@
 PARAMETRI_COPACI = {
     "Numar_Pomi" : "Numarul de meri dintr-un judet",
     "Kg_pe_Pom"  : "Productia de fructe per copac",
-    "Tone_Totale"  : "Productia totala de fructe"
+    "Tone_Totale"  : "Productia totala de fructe",
+    "Rootstock_ID" : "Tipul de portaltoi folosit (influenteaza marimea si rezistenta copacilor)",
 }
 
 
