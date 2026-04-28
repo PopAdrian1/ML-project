@@ -22,11 +22,11 @@ PARAMETRI_SOL = {
 PARAMETRI_CLIMA = {
 
     "Primavara": {
-        "temp_medie": "Temperatura medie (influențează viteza de înmugurire)",
-        "temp_min_abs": "Cea mai scăzută temperatură (risc de îngheț la floare)",
-        "precipitatii_total": "Cantitatea de apă (importantă pentru pornirea în vegetație)",
-        "zile_inghet": "Număr de zile cu temp < 0 grade după 1 Martie",
-        "umiditate_sol": "Umiditatea la nivelul rădăcinilor (disponibilitatea apei)"
+        "temp_medie_primavara": "Temperatura medie (influențează viteza de înmugurire)",
+        "temp_min_primavara": "Cea mai scăzută temperatură (risc de îngheț la floare)",
+        "precipitatii_primavara": "Cantitatea de apă (importantă pentru pornirea în vegetație)",
+        "zile_inghet_primavara": "Număr de zile cu temp < 0 grade după 1 Martie",
+        "umiditate_sol_primavara": "Umiditatea la nivelul rădăcinilor (disponibilitatea apei)"
     },
 
     "Vara": {
